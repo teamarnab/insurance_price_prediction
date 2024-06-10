@@ -1,5 +1,5 @@
 # insurance_price_prediction
-Prediction Insurance price based on a customers data
+Predicting Insurance price based on a customer's age, bmi, sex, smoker or not, number of childern, region. 
 
 PROBLEM STATEMENT
 
