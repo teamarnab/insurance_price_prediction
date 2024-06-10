@@ -23,7 +23,7 @@ STEPS FOLLOWED
 8. Checking correlation of columns.
 9. Dropped two columns with lowest relation.
 10. Splitting data into training set and testing set.
-11. Importing five regression models (Linear Regression, KNN Regressor, Decision Tree Regressor, Random Forest Regressor and Support Vector Regressor.
+11. Importing five regression models (Linear Regression, KNN Regressor, Decision Tree Regressor, Random Forest Regressor).
 12. Making objects of each model and creating a list of the objects.
 13. Iterating through the models list, fitting training data in each model one by one.
 14. Making predictions with test data using each model one by one.
